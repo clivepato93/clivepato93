@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clivepato93
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning the Djangoframework
+- 🌱 I’m currently working on using the following technologies Javascript & the Djangoframework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
